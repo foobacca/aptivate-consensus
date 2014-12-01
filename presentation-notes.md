@@ -16,9 +16,13 @@ Range from:
 
 ## Why
 
+* political statement:
+  * No one is more qualified than you to decide what your life will be.
+  * Consensus decision making is based on the idea that people should have full control over their lives and that power should be shared by all rather than concentrated in the hands of a few.
+* participation is a core value
+* engagement, build relationships, can't just ignore anyone
+* everyone owns the decisions -> buy in, 
 * better decisions
-* engagement, participation
-* everyone owns the decisions
 
 ## Aptivate History
 

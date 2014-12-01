@@ -1,4 +1,5 @@
-## Aptivate
+
+![Aptivate](../img/aptivate-logo.png)
 
 Hamish Downer
 
@@ -12,8 +13,9 @@ Joh Hunt
 
 ---
 
-## Why
+## Why?
 
+* engagement
 * participation
 * everyone owns the decisions
 * better decisions
@@ -40,16 +42,15 @@ Joh Hunt
 
 ---
 
-## What works, issues
+## Working Groups
 
 ---
 
-## other
+## What works, issues
 
-How do we avoid decisions getting stuck
+![annoyed](../img/asterix-small.png)
 
-- delegation
-- 
+---
 
 ## Thank you
 
